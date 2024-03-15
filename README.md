@@ -3,38 +3,50 @@ this file is to remind myself of what is in the repository, how it works, and wh
 
 LIST OF ALL MY REPLIT FILES
 
-**Generate Color Dots:** https://replit.com/@PPPython23-24/Lab-1-Smile-ASHLEYPURAN
+**Generate Color Dots:** 
 
-**Python Portfolio:** https://replit.com/@ASHLEYPURAN/websiteportfolio
+**Python Portfolio:** 
 
-**Ghost School Website:** https://replit.com/@WDp7-8/Final-Project-Ghost-School-ASHLEYPURAN
+**Avatar Python:**
 
-**Teacher Appreciation Week:** https://replit.com/@WDp7-8/Project-Teacher-Appreciation-Week-ASHLEYPURAN
+**Ping-Pong Game:** 
 
-**Avatar Python:** https://replit.com/@PPPython23-24/63-CMU-graphics-ASHLEYPURAN
+**Project 1 - Silly Sentences:** 
 
-**Ping-Pong Game:** https://replit.com/@PPPython23-24/Project-Bouncing-Ball-PPPython23-24-10
+**Project 2 - Room Area:** 
 
-**Project 1 - Silly Sentences:** https://replit.com/@PPPython23-24/Project-1-Silly-Sentences-ASHLEYPURAN
+**Project 3 - ChatBot:** 
 
-**Project 2 - Room Area:** https://replit.com/@PPPython23-24/Project-2-Room-Area-ASHLEYPURAN
+**Project 4 - Divisible by Three:** 
 
-**Project 3 - ChatBot:** https://replit.com/@PPPython23-24/Project-3-ChatBot-ASHLEYPURAN
 
-**Project 4 - Divisible by Three:** https://replit.com/@ASHLEYPURAN/Project-4-Divisible-By-3
 
-**Make a Halloween Card**: https://replit.com/@WDp7-8/Learners-Make-A-Halloween-Card-ASHLEYPURAN
 
-**Code.org Unit Review 1:** https://replit.com/@WDp7-8/Codeorg-UNIT-REVIEW-intro-CSS-ASHLEYPURAN
+**Ghost School Website:** 
 
-**Code.org Unit Review 2:** https://replit.com/@WDp7-8/Codeorg-UNIT-2-REVIEW-The-Internet-ASHLEYPURAN
+**Teacher Appreciation Week:** 
 
-**Code.org Unit Review 3:** https://replit.com/@WDp7-8/Codeorg-UNIT-3-REVIEW-Intro-to-App-Design-ASHLEYPURAN
+**Make a Halloween Card**: 
 
-**Code.org Unit Review 4:** https://replit.com/@WDp7-8/Codeorg-UNIT-4-REVIEW-VariablesConditionals-ASHLEYPURAN
+**Code.org Unit Review 1:** 
 
-**Code.org Unit Review 5:** https://replit.com/@WDp7-8/Codeorg-UNIT-5-REVIEW-Lists-Loops-and-Travers-ASHLEYPURAN
+**Code.org Unit Review 2:**
 
-**Code.org Unit Review 6:** https://replit.com/@WDp7-8/Codeorg-UNIT-6-REVIEW-Algorithms-ASHLEYPURAN
+**Code.org Unit Review 3:** 
 
-**Code.org Unit Review 7:** https://replit.com/@WDp7-8/Codeorg-UNIT-7-REVIEW-Parameters-and-Return-ASHLEYPURAN
+**Code.org Unit Review 4:** 
+
+**Code.org Unit Review 5:** 
+
+**Code.org Unit Review 6:** 
+
+**Code.org Unit Review 7:** 
+
+**1.2 Output Make:** 
+
+**1.10 Input Make:**
+
+**2.3 Calculation Make:**
+
+**2.4 Variables Make:** 
+
